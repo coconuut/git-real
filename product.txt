@@ -1,0 +1,6 @@
+computer
+radio
+printer
+projector
+radio
+record
